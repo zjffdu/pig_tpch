@@ -1,3 +1,6 @@
+FROM PIG-2397
+
+
 TPC-H Benchmark
 ===============
 TPC-H is an ad-hoc, decision support benchmark.
